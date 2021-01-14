@@ -117,7 +117,9 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/**
+mvnw
+mvnw.cmd
 
 package-structure.iml
 package-structure.ipr
